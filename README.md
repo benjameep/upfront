@@ -6,19 +6,19 @@ HTML/CSS were built in the 80s when the web was only somthing that researchers a
 
 We can fix it. Together.
 
-Upfront seeks to rebuild the web in such a way that a designer can have the freedom they seek without needing years of CSS experience.
+Upfront seeks to rebuild the web in such a way that a designer can have the freedom they seek without getting entangled in the mess of programing.
 
 
 ## Revolutionary Changes
 
 If all the web is, is displaying data from a database, and updating that data from interactions with an interface. Then lets make it feel that way.
 
-Like many revolutionary ideas, the origins of the ideas are not original only in bringing together many existing ideas is something revolutionary is created. So listed below are the existing products that we seek to bring inspiration from.
+Like many revolutionary ideas, the origins of this idea are not original. Only in bringing together many existing ideas is something revolutionary is created. So listed below are the existing products that we seek to bring inspiration from.
 
-- 3rd-Party Extensions wrap xhr requests into a consistent UI Interface
+- Wrapping xhr requests into a consistent UI Interface
   - IFTTT
   - Postman
-- Requested data presented in a format free of served syntax (JSON, XML, etc)
+- Requested data presented in a format free of served syntax (JSON, XML, CSV, etc)
   - GraphQL
   - Pandas
   - AirTable
